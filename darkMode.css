@@ -1,0 +1,32 @@
+body.dark {
+	background: #16404D;
+}
+
+body.dark .time {
+	color: #A6CDC6;
+}
+
+body.dark .menu {
+	color: #ecf0f1;
+	opacity: 1;
+}
+
+body.dark .button, body.dark .button-2, body.dark .button-3, body.dark .button-4 {
+	background: #A6CDC6;
+}
+
+body.dark .menu i {
+	color: #16404D;
+}
+
+body.dark .author {
+	opacity: 0.6;
+}
+
+body.dark .author a {
+	color: #E2F1E7;
+}
+
+body.dark .info-box {
+    color: #ecf0f1;
+}
