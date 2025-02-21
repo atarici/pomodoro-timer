@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="assets/pomodoro.gif">
+<img src="/assets/pomodoro.gif">
 
 
 You can also check out my other repo that i collected my own javascript projects. [Click here](https://github.com/atarici/javacsript-project-collection).
